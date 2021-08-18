@@ -1,0 +1,16 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "An API built on node with Express js",
+  "main": "app.js",
+  "repository": "https://www.github.com/maximof/natours",
+  "author": "Favour Max-Oti",
+  "license": "MIT",
+  "private": null,
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "scripts": {
+    "start": "nodemon app.js"
+  }
+}
